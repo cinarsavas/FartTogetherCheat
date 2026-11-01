@@ -7,7 +7,7 @@
 $ErrorActionPreference = "Stop"
 
 # ---- EDIT THESE TWO LINES after you create the GitHub repo ----------------
-$GitHubUser = "YOUR-GITHUB-USERNAME"
+$GitHubUser = "cinarsavas"
 $GitHubRepo = "FartTogetherCheat"
 # ----------------------------------------------------------------------------
 
